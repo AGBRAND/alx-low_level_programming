@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main - Displays the size of var types
+/**
+ * main - Prints size of many var types
  *
  * Return: Always 0 (Validated)
  */
