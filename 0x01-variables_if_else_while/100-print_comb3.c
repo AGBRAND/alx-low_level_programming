@@ -17,7 +17,7 @@ int main(void)
 
 		{
 
-			if (j>i)
+			if (j > i)
 
 			{
 
